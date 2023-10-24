@@ -1,0 +1,2 @@
+[15-Sep-2023 21:02:53 Asia/Jakarta] PHP Warning:  require(/home/diag2589/public_html/public/../WebDiagnosa/vendor/autoload.php): failed to open stream: No such file or directory in /home/diag2589/public_html/public/index.php on line 34
+[15-Sep-2023 21:02:53 Asia/Jakarta] PHP Fatal error:  require(): Failed opening required '/home/diag2589/public_html/public/../WebDiagnosa/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/diag2589/public_html/public/index.php on line 34
